@@ -14,13 +14,13 @@ Admin
 
 Example user Stories: 
 
-(1) My friend's family is stranded at <this location>. This is their <ph number>, which is working on & off. There is not much water inside their house, but they cannot go out either and they have ran out of food. Where to post this info?
+(1) My friend's family is stranded at this location. This is their ph number, which is working on & off. There is not much water inside their house, but they cannot go out either and they have ran out of food. Where to post this info?
 
 (2) I'm working in a NGO. I want to know which areas are affected, and where relief help is minimal (or yet to be distributed) over the last 3 hours. 
 
 3) I'm a volunteer relief worker. I want to know which NGOs/Service groups are looking for volunteers (within the last 8 hrs)
 
-4) I'm the manager at a NGO in-charge of procurement. I want to know what food/clothing/other materials I should be buying tomorrow, but I am not really sure what do people in the <xyz> locality want. How should I find it. 
+4) I'm the manager at a NGO in-charge of procurement. I want to know what food/clothing/other materials I should be buying tomorrow, but I am not really sure what do people in the xyz locality want. How should I find it. 
 
 
 Possible options include https://github.com/williamv/Flareteam & https://github.com/code-for-india/BhEEM
